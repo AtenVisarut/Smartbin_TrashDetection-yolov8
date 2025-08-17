@@ -114,7 +114,7 @@ shoes
 
 - **OS**: Raspberry Pi OS (32-bit)  
 
-- **Python**: 3.7+  
+- **Python**: 3.7+ (colab)  
 
 - **Key Libraries**:
 
